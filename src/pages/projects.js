@@ -17,7 +17,7 @@ const Projects = () => {
               <div className="post-content">
                 <p>
                   <a
-                    href="https://www.youtube.com/channel/UCD89j1lEDHzDZFXrOrrXhJw"
+                    href="https://www.youtube.com/@aarondurant80"
                     target="_blank"
                     rel="noreferrer"
                     className="motocross"
@@ -30,14 +30,27 @@ const Projects = () => {
                 </p>
 
                 <p>
-                  I have an app idea I'm beginning to tinker with, but I'm
-                  primarily focused on advancing my life, furthering my software
-                  development career, and improving my fitness and technique to
+                  I recently set up a Substack called{" "}
+                  <a
+                    href="https://www.tableovertwo.com"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Table Over Two
+                  </a>
+                  , where I intend to write weekly about media, mindset, and
+                  more in motocross.
+                </p>
+
+                <p>
+                  I have an app idea I'm very slowly beginning to tinker with,
+                  but I'm primarily focused on setting up my townhome,
+                  furthering my career, and improving my fitness and skill to
                   reach my motocross potential.
                 </p>
 
                 <p>
-                  It's all a work in progress, and I intend to{" "}
+                  It's all a work in progress. I intend to{" "}
                   <Link to="/writing">write</Link> on this website roughly once
                   a month as it unfolds.
                 </p>

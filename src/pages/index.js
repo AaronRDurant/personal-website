@@ -22,17 +22,17 @@ const Home = ({ data, location }) => {
               </span>
             </p>
             <p className="hero-description small width">
-              I'm diving into my second full{" "}
+              I'm wrapping up my second full{" "}
               <a
-                href="https://www.youtube.com/channel/UCD89j1lEDHzDZFXrOrrXhJw"
+                href="https://www.youtube.com/@aarondurant80"
                 target="_blank"
                 rel="noreferrer"
                 className="motocross"
               >
                 motocross
               </a>{" "}
-              season in 16 years, optimizing my environment, and seeking a new
-              opportunity to contribute in software development.
+              season in 16 years, optimizing my environment, returning to
+              healthy habits, and starting some new things.
             </p>
           </header>
           <div>

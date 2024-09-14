@@ -21,7 +21,7 @@ const links = [
   },
   {
     label: "YouTube",
-    url: "https://www.youtube.com/channel/UCD89j1lEDHzDZFXrOrrXhJw",
+    url: "https://www.youtube.com/@aarondurant80",
     icon: youtube,
   },
 ];

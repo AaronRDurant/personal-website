@@ -17,17 +17,9 @@ const About = () => {
             <section className="segment small">
               <div className="post-content">
                 <p>
-                  I'm a software developer and motocross racer in Michigan.
-                  Currently, I'm diving into the 2024 motocross season striving
-                  for{" "}
-                  <a
-                    href="https://www.youtube.com/watch?v=bX5NcJnT1H8"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    redemption during Labor Day weekend's Baja Brawl
-                  </a>{" "}
-                  and seeking a new software development role.
+                  I'm a writer and motocross racer in Michigan. Currently, I'm
+                  wrapping up the 2024 motocross season and seeking a new
+                  writing or software development role.
                 </p>
 
                 <p>
@@ -36,12 +28,6 @@ const About = () => {
                   with the start of my software development career in July. In
                   October, I lapped a motocross track for the first time since
                   2008.
-                </p>
-
-                <p>
-                  I've only cracked the surface of coding in the second year of
-                  my professional career and remain excited to take the one-two
-                  combo of coding + motocross as far as possible.
                 </p>
 
                 <p>
@@ -61,10 +47,9 @@ const About = () => {
                 </p>
 
                 <p>
-                  I try to have most things flow toward coding and motocross,
-                  but I also enjoy playing drums, playing golf, snowboarding,
-                  taking in heavy metal concerts from the front row, and
-                  laughing with my family, girlfriend, and friends.
+                  I also enjoy playing drums, playing golf, snowboarding, taking
+                  in heavy metal concerts from the front row, and laughing with
+                  my family, girlfriend, and friends.
                 </p>
 
                 <StaticImage
